@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Datasets and Images
+datasets/
+conveyor_output/
+*.png
+*.jpg
+*.jpeg
+
+# AI Model Weights and Checkpoints
+results/
+*.ckpt
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
